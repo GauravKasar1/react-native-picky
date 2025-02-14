@@ -26,7 +26,7 @@ rootProject.allprojects {
 }
 
 android {
-    compileSdkVersion safeExtGet('Picky_compileSdkVersion', 29)
+    compileSdkVersion safeExtGet('Picky_compileSdkVersion', 31)
     defaultConfig {
         minSdkVersion safeExtGet('Picky_minSdkVersion', 16)
         targetSdkVersion safeExtGet('Picky_targetSdkVersion', 29)
