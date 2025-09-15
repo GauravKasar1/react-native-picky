@@ -1,6 +1,11 @@
-# ⛏️ react-native-picky
+# ⛏️ react-native-picky-latest
 
 An awesome native wheel picker component for react-native.
+
+## Forked From
+
+This package is a fork of [react-native-picky](https://github.com/Liamandrew/react-native-picky) by [Liamandrew](https://github.com/Liamandrew).  
+Modifications include updated dependencies, fixed Android/iOS integration, and versioned builds.
 
 ## Features
 
@@ -22,7 +27,7 @@ An awesome native wheel picker component for react-native.
 ## Installation
 
 ```sh
-yarn add react-native-picky
+npm install react-native-picky-latest
 ```
 
 ## Quick Start
