@@ -1,4 +1,4 @@
-# ⛏️ react-native-picky-latest
+# ⛏️ react-native-picky-wheel-latest
 
 An awesome native wheel picker component for react-native.
 
