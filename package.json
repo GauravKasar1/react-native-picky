@@ -1,6 +1,6 @@
 {
   "name": "react-native-picky-wheel-latest",
-  "version": "1.1.4",
+  "version": "1.1.5",
   "description": "An awesome native wheel picker component for react-native",
   "main": "lib/commonjs/index",
   "module": "lib/module/index",
@@ -40,15 +40,15 @@
   ],
   "repository": {
   "type": "git",
-  "url": "https://github.com/GauravKasar1/react-native-picky.git"
+  "url": "https://github.com/gauravkpro/react-native-picky"
   }
 
-  "author": "Gaurav Kasar <gauravkasar12@gmail.com> (https://github.com/GauravKasar1)",
+  "author": "Gaurav Kasar <gauravkasar12@gmail.com> (https://github.com/gauravkpro)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/GauravKasar1/react-native-picky/issues"
+    "url": "https://github.com/gauravkpro/react-native-picky/issues"
   },
-  "homepage": "https://github.com/GauravKasar1/react-native-picky#readme",
+  "homepage": "https://github.com/gauravkpro/react-native-picky#readme",
   "publishConfig": {
     "registry": "https://registry.npmjs.org/"
   },
